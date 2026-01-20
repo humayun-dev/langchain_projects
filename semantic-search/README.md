@@ -13,17 +13,6 @@ This project demonstrates a **real-world RAG pipeline**, similar to how systems 
 
 ## How It Works (Architecture)
 
-Document
-↓
-Text Chunking
-↓
-Vector Embeddings (HuggingFace)
-↓
-FAISS Vector Store
-↓
-Semantic Similarity Search
-↓
-Context Injection
-↓
+Document --> Text Chunking --> Vector Embeddings (HuggingFace) --> FAISS Vector Store --> Semantic Similarity Search --> Context Injection -->
 LLM Answer Generation (RAG)
 
