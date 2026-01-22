@@ -47,9 +47,9 @@ memory-aware-chatbot/
 ├── config/
 │ └── settings.py # API key + model config
 │
-├── streamlit_app.py # Streamlit UI entry point
+├── streamlit_app.py # Streamlit UI entry point for the bot
 ├── .env.example # Environment variable template
-└── README.md # This file
+└── README.md 
 
 
 
